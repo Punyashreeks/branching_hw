@@ -1,4 +1,4 @@
 devOps helps automate deployment
 CI/CD improves software delivery
 Docker helps containerization
-Kubernetes manages containers
+
