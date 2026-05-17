@@ -2,5 +2,4 @@ IoT connects smart devices
 Sensors collect real-time data
 Smart homes use IoT technology
 IoT improves automatic systems
-
-
+IoT is used in healthcare systems
