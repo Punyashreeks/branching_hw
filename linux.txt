@@ -3,3 +3,16 @@ pwd shows current path
 mkdir creates folders
 rm deletes files
 grep searches text
+Git is a version control system
+GitHub stores repositories online
+Branches help developers work separately
+Merging combines branch changes
+Clone copies repository to local system
+Fork creates personal repository copy
+Linux commands work in Git Bash
+clear cleans the terminal screen
+history shows previous commands
+touch creates empty files
+cat displays file content
+mv renames files and folders
+cp copies files
