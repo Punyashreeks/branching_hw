@@ -2,3 +2,4 @@ Linux is open source
 pwd shows current path
 mkdir creates folders
 rm deletes files
+grep searches text
