@@ -1,2 +1,2 @@
- Linux is open source
-
+Linux is open source
+pwd shows current path
