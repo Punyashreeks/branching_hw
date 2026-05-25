@@ -1,1 +1,10 @@
 Git Bash supports Linux commands
+pwd shows current directory
+ls lists files
+cd changes directory
+mkdir creates folders
+rm removes files
+vim edits files
+git status checks repository
+git add stages files
+git commit saves changes
