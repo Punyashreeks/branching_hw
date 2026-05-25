@@ -1,1 +1,3 @@
 Python supports OOP
+
+Python is beginner friendly
