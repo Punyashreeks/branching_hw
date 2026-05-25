@@ -1,3 +1,5 @@
 Python supports OOP
 
 Python is beginner friendly
+
+Functions improve code reuse
