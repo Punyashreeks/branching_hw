@@ -8,3 +8,6 @@ vim edits files
 git status checks repository
 git add stages files
 git commit saves changes
+git push uploads to github
+git pull downloads latest changes
+branches help teamwork
