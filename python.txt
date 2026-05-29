@@ -3,3 +3,23 @@ Python supports OOP
 Python is beginner friendly
 
 Functions improve code reuse
+
+Python is easy to learn
+
+Python supports object oriented programming
+
+Lists store multiple values
+
+Functions improve code reuse
+
+Loops reduce repeated work
+
+GitHub stores python projects
+
+Python is popular in AI
+
+Python supports automation
+
+Variables store data
+
+Input function takes user input
