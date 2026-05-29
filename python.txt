@@ -23,3 +23,6 @@ Python supports automation
 Variables store data
 
 Input function takes user input
+
+Python supports machine learning
+
