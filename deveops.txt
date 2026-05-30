@@ -12,3 +12,5 @@ Docker helps containerization
 Jenkins automates builds
 Monitoring improves reliability
 Cloud platforms support DevOp
+Kubernetes manages containers
+Infrastructure as Code improves consistency
