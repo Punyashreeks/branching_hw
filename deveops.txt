@@ -2,3 +2,13 @@ devOps helps automate deployment
 CI/CD improves software delivery
 Docker helps containerization
 DevOps improves team collaboration
+DevOps improves collaboration
+CI means Continuous Integration
+CD means Continuous Delivery
+Git is a DevOps tool
+Automation reduces manual work
+Linux is widely used in DevOps
+Docker helps containerization
+Jenkins automates builds
+Monitoring improves reliability
+Cloud platforms support DevOp
