@@ -16,3 +16,4 @@ touch creates empty files
 cat displays file content
 mv renames files and folders
 cp copies files
+Linux supports multiuser environment
