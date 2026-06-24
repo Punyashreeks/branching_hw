@@ -29,7 +29,3 @@ Python supports machine learning
 Python supports web development
 
 Python is beginner friendly and widely used
-
-python is easy to learn
-
-
