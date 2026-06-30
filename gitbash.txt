@@ -1,0 +1,13 @@
+Git Bash supports Linux commands
+pwd shows current directory
+ls lists files
+cd changes directory
+mkdir creates folders
+rm removes files
+vim edits files
+git status checks repository
+git add stages files
+git commit saves changes
+git push uploads to github
+git pull downloads latest changes
+branches help teamwork

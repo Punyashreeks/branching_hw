@@ -1,0 +1,10 @@
+C is a procedural language
+C is used in operating systems
+Functions improve modularity
+Pointers store memory addresses
+Arrays store multiple values
+Structures group related data
+Loops reduce repetition
+Header files contain declarations
+Compilation creates executable files
+C is fast and efficient
