@@ -1,0 +1,10 @@
+HTML creates web pages
+Tags define structure
+Head contains metadata
+Body contains visible content
+Forms collect user input
+Tables organize data
+Lists display items
+Links connect web pages
+Images improve appearance
+HTML is the foundation of web development
